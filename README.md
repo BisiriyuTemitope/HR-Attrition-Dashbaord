@@ -62,4 +62,7 @@ Data Processing in Power BI:
 
 This HR Attrition Dashboard provides actionable insights to help organizations reduce turnover, improve employee satisfaction, and optimize workforce planning.
 
+# View my Portfolio
+https://esther-portfolio-five.vercel.app/
+
 
