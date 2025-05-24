@@ -8,9 +8,9 @@ This project analyzes employee attrition data to uncover key trends and drivers 
 ![Screenshot 2025-04-03 205117](https://github.com/user-attachments/assets/e86fe6e7-2829-4a7f-ade8-1e906aec7101)
 
 # Tools Used
-•	Excel: Cleaned the data by using the Text to Columns feature to split the data with the delimiter tab. Also performed basic formatting and removed inconsistencies.
-•	Power BI: Used for data analysis and visualization.
-•	Data Processing in Power BI:
+Excel: Cleaned the data by using the Text to Columns feature to split the data with the delimiter tab. Also performed basic formatting and removed inconsistencies.
+Power BI: Used for data analysis and visualization.
+Data Processing in Power BI:
      Created an additional column for age groups to categorize employees by age.
      Created measures to calculate total employees, attrition rate, and other key metrics.
      Designed an interactive dashboard to visualize attrition trends by department, job role, education, and other 
