@@ -13,8 +13,8 @@ Excel: Cleaned the data by using the Text to Columns feature to split the data w
 Power BI: Used for data analysis and visualization.
 
 Data Processing in Power BI:
-     Created an additional column for age groups to categorize employees by age.
-     Created measures to calculate total employees, attrition rate, and other key metrics.
+     Created an additional column for age groups to categorize employees by age,
+     Created measures to calculate total employees, attrition rate, and other key metrics,
      Designed an interactive dashboard to visualize attrition trends by department, job role, education, and other 
      demographics.
      
